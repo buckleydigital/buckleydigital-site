@@ -233,7 +233,6 @@
     <div class="contact-card reveal">
       <div class="row"><span class="k">Email</span><span class="v">contact@buckleydigital.com.au</span></div>
       <div class="row"><span class="k">Based in</span><span class="v">Australia</span></div>
-      <div class="row"><span class="k">ABN</span><span class="v">00 000 000 000</span></div>
       <a class="btn btn-primary" href="contact.html">Book a call →</a>
     </div>
   </div>
@@ -243,7 +242,7 @@
   <div class="wrap foot">
     <div class="brand">Buckley Digital</div>
     <div>Digital infrastructure for Australian service businesses</div>
-    <div>© 2026 · ABN 00 000 000 000</div>
+    <div>© 2026</div>
   </div>
 </footer>
 
